@@ -1,0 +1,11 @@
+{
+  "grid": [
+    [{"row":0,"col":0,"isBlack":false,"value":"","number":1}, {"row":0,"col":1,"isBlack":false,"value":""}, {"row":0,"col":2,"isBlack":false,"value":""}, {"row":0,"col":3,"isBlack":false,"value":""}],
+    [{"row":1,"col":0,"isBlack":false,"value":""}, {"row":1,"col":1,"isBlack":true,"value":""}, {"row":1,"col":2,"isBlack":false,"value":""}, {"row":1,"col":3,"isBlack":false,"value":""}],
+    [{"row":2,"col":0,"isBlack":false,"value":""}, {"row":2,"col":1,"isBlack":false,"value":""}, {"row":2,"col":2,"isBlack":false,"value":""}, {"row":2,"col":3,"isBlack":false,"value":""}]
+  ],
+  "clues": [
+    {"number":1,"clue":"Quick","answer":"FAST","row":0,"col":0,"direction":"across"},
+    {"number":2,"clue":"Small drink","answer":"SHOT","row":0,"col":3,"direction":"down"}
+  ]
+}
